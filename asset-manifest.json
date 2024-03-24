@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/freshcart-ecommerce-v2/static/css/main.e1fbf150.css",
+    "main.js": "/freshcart-ecommerce-v2/static/js/main.5b65922b.js",
+    "static/media/slider2.jpg": "/freshcart-ecommerce-v2/static/media/slider2.03dc1ec07d987a4362b5.jpg",
+    "static/media/banner2.jpg": "/freshcart-ecommerce-v2/static/media/banner2.093b145035196c1f0f64.jpg",
+    "static/media/banner1.jpg": "/freshcart-ecommerce-v2/static/media/banner1.bdfb2e49001eb9b9dc76.jpg",
+    "static/media/slider1.jpg": "/freshcart-ecommerce-v2/static/media/slider1.0ff23893089242005f8d.jpg",
+    "static/media/banner3.jpg": "/freshcart-ecommerce-v2/static/media/banner3.a4ebdeec5b4c867c7434.jpg",
+    "static/media/topography.svg": "/freshcart-ecommerce-v2/static/media/topography.7204ce0f8a141a9e5300.svg",
+    "static/media/logo-main-dark.png": "/freshcart-ecommerce-v2/static/media/logo-main-dark.ae111b429c9b60ec2600.png",
+    "static/media/logo-main.png": "/freshcart-ecommerce-v2/static/media/logo-main.bf26bab608da5e18b2fe.png",
+    "static/media/slick.svg": "/freshcart-ecommerce-v2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/freshcart-ecommerce-v2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/freshcart-ecommerce-v2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/freshcart-ecommerce-v2/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/freshcart-ecommerce-v2/index.html",
+    "main.e1fbf150.css.map": "/freshcart-ecommerce-v2/static/css/main.e1fbf150.css.map",
+    "main.5b65922b.js.map": "/freshcart-ecommerce-v2/static/js/main.5b65922b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1fbf150.css",
+    "static/js/main.5b65922b.js"
+  ]
+}
