@@ -13,5 +13,5 @@ Features:
 9- Dark/Light Mode
 Many more...
 
-Api used: Route Academy
+Api used: Route Academy || 
 Try it now: https://nadeem-elbarbari.github.io/freshcart-ecommerce-v2/#/
